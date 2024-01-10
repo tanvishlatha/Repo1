@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'tsr-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_307F19FBAB1B4D5796D1DAAB4600A2AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FEB8BFB54ED48D2A995C01957700D76 }}
